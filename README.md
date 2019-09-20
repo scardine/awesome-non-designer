@@ -14,7 +14,7 @@ Curated list of resources if you want to make decent looking UIs but lack natura
 
 ## Royalty-free Images
 
-## Vector
+### Vector
 
 * https://undraw.co/illustrations
 * https://www.manypixels.co/gallery/
@@ -40,7 +40,4 @@ Curated list of resources if you want to make decent looking UIs but lack natura
 * https://pikwizard.com/
 * https://www.rawpixel.com/
 * https://www.reshot.com/
-
-
-
 
