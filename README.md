@@ -1,4 +1,4 @@
-# Awesome Non-designer Tools
+# Awesome Non-designer
 
 Curated list of resources if you want to make decent looking UIs but lack natural aesthetic instincts and/or visual design education.
 
